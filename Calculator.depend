@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1505975409 source:d:\c_study\ho dol ssam\calculator\arraystack.c
+	"ArrayStack.h"
+
+1509366046 d:\c_study\ho dol ssam\calculator\arraystack.h
+
+1510632828 source:d:\c_study\ho dol ssam\calculator\calculator.c
+	"Calculator.h"
+	"LinkedStack.h"
+
+1510533382 d:\c_study\ho dol ssam\calculator\calculator.h
+
+1510632896 source:d:\c_study\ho dol ssam\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculator.h"
+
+1510478996 d:\c_study\ho dol ssam\calculator\linkedstack.h
+
+1510632933 source:d:\c_study\ho dol ssam\calculator\linkedstack.c
+	"LinkedStack.h"
+
+1511307208 source:d:\c_study\calculator\calculator.c
+	"Calculator.h"
+	"LinkedStack.h"
+
+1510533382 d:\c_study\calculator\calculator.h
+
+1510478996 d:\c_study\calculator\linkedstack.h
+
+1510632933 source:d:\c_study\calculator\linkedstack.c
+	"LinkedStack.h"
+
+1511350673 source:d:\c_study\calculator\main.c
+	<stdio.h>
+	"Calculator.h"
+
